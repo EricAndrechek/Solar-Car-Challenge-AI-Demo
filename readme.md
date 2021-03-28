@@ -16,7 +16,9 @@ Run computer-vision.py and computer-vision-no-crop.py by running `python compute
 
 To use the AI video analyzer, see [darknet](https://github.com/AlexeyAB/darknet) and then run do-video.py to take an video and rebuild it with individually written analyzed frames.
 
-### View the presentation [here.](https://github.com/EricAndrechek/Solar-Car-Challenge-AI-Demo/raw/main/presentation/AI%20in%20the%20Solar%20Car%20Challenge.pdf)
+### Watch the Webinar [here.](https://www.youtube.com/watch?v=IwrX5crwRrk&t=2362s)
+
+### View the PowerPoint [here.](https://github.com/EricAndrechek/Solar-Car-Challenge-AI-Demo/raw/main/presentation/AI%20in%20the%20Solar%20Car%20Challenge.pdf)
 
 ![Slide1](presentation/Slide1.jpg)
 ![Slide2](presentation/Slide2.jpg)
